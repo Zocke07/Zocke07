@@ -4,10 +4,6 @@
   <img src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" width="100"/>
 </div>
 
-<div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zocke07&style=flat-square&color=blue" alt=""/>
-</div>
-
 <!--
 **Zocke07/Zocke07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
